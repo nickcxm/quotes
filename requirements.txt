@@ -23,7 +23,7 @@ django-imagekit==4.0.2
 django-model-utils==3.1.1
 django-upload-avatar==0.1.0
 django-users2==0.2.1
-djangorestframework==3.7.7
+djangorestframework==3.11.2
 greenlet==0.4.12
 gunicorn==19.7.1
 hyperlink==17.3.1
