@@ -35,7 +35,7 @@ ipython-genutils==0.2.0
 jedi==0.11.1
 lxml==4.1.1
 matplotlib==2.1.2
-numpy==1.14.0
+numpy==1.22.0
 pandas==0.22.0
 parsel==1.2.0
 parso==0.1.1
